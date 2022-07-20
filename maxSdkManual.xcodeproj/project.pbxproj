@@ -48,16 +48,16 @@
 		B4CB8E172887E8580055043D /* GoogleAppMeasurement.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E0C2887E8580055043D /* GoogleAppMeasurement.xcframework */; };
 		B4CB8E182887E8580055043D /* GoogleUtilities.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E0D2887E8580055043D /* GoogleUtilities.xcframework */; };
 		B4CB8E1B2887EB010055043D /* AppLovinMediationMintegralAdapter.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E1A2887EB010055043D /* AppLovinMediationMintegralAdapter.xcframework */; };
-		B4CB8E282887EB2B0055043D /* MTGSDKInterstitialVideo.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E1E2887EB2B0055043D /* MTGSDKInterstitialVideo.xcframework */; };
-		B4CB8E292887EB2B0055043D /* MTGSDKBanner.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E1F2887EB2B0055043D /* MTGSDKBanner.xcframework */; };
-		B4CB8E2A2887EB2B0055043D /* MTGSDKBidding.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E202887EB2B0055043D /* MTGSDKBidding.xcframework */; };
-		B4CB8E2B2887EB2B0055043D /* MTGSDKReward.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E212887EB2B0055043D /* MTGSDKReward.xcframework */; };
-		B4CB8E2C2887EB2B0055043D /* MTGSDKInterstitial.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E222887EB2B0055043D /* MTGSDKInterstitial.xcframework */; };
-		B4CB8E2D2887EB2B0055043D /* MTGSDKNativeAdvanced.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E232887EB2B0055043D /* MTGSDKNativeAdvanced.xcframework */; };
-		B4CB8E2E2887EB2B0055043D /* MTGSDKSplash.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E242887EB2B0055043D /* MTGSDKSplash.xcframework */; };
-		B4CB8E2F2887EB2B0055043D /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E252887EB2B0055043D /* LICENSE.txt */; };
-		B4CB8E302887EB2B0055043D /* MTGSDKNewInterstitial.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E262887EB2B0055043D /* MTGSDKNewInterstitial.xcframework */; };
-		B4CB8E312887EB2B0055043D /* MTGSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E272887EB2B0055043D /* MTGSDK.xcframework */; };
+		B4CB8E3D2887EBF20055043D /* MTGSDKInterstitialVideo.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E332887EBF10055043D /* MTGSDKInterstitialVideo.xcframework */; };
+		B4CB8E3E2887EBF20055043D /* MTGSDKBanner.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E342887EBF10055043D /* MTGSDKBanner.xcframework */; };
+		B4CB8E3F2887EBF20055043D /* MTGSDKBidding.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E352887EBF10055043D /* MTGSDKBidding.xcframework */; };
+		B4CB8E402887EBF20055043D /* MTGSDKReward.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E362887EBF10055043D /* MTGSDKReward.xcframework */; };
+		B4CB8E412887EBF20055043D /* MTGSDKInterstitial.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E372887EBF10055043D /* MTGSDKInterstitial.xcframework */; };
+		B4CB8E422887EBF20055043D /* MTGSDKNativeAdvanced.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E382887EBF10055043D /* MTGSDKNativeAdvanced.xcframework */; };
+		B4CB8E432887EBF20055043D /* MTGSDKSplash.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E392887EBF10055043D /* MTGSDKSplash.xcframework */; };
+		B4CB8E442887EBF20055043D /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E3A2887EBF10055043D /* LICENSE.txt */; };
+		B4CB8E452887EBF20055043D /* MTGSDKNewInterstitial.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E3B2887EBF10055043D /* MTGSDKNewInterstitial.xcframework */; };
+		B4CB8E462887EBF20055043D /* MTGSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E3C2887EBF10055043D /* MTGSDK.xcframework */; };
 		B4F72FD62887A54B009D1A8C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F72FD52887A54B009D1A8C /* AppDelegate.swift */; };
 		B4F72FD82887A54B009D1A8C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F72FD72887A54B009D1A8C /* SceneDelegate.swift */; };
 		B4F72FDA2887A54B009D1A8C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F72FD92887A54B009D1A8C /* ViewController.swift */; };
@@ -123,16 +123,16 @@
 		B4CB8E0C2887E8580055043D /* GoogleAppMeasurement.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleAppMeasurement.xcframework; sourceTree = "<group>"; };
 		B4CB8E0D2887E8580055043D /* GoogleUtilities.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleUtilities.xcframework; sourceTree = "<group>"; };
 		B4CB8E1A2887EB010055043D /* AppLovinMediationMintegralAdapter.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = AppLovinMediationMintegralAdapter.xcframework; sourceTree = "<group>"; };
-		B4CB8E1E2887EB2B0055043D /* MTGSDKInterstitialVideo.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKInterstitialVideo.xcframework; sourceTree = "<group>"; };
-		B4CB8E1F2887EB2B0055043D /* MTGSDKBanner.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKBanner.xcframework; sourceTree = "<group>"; };
-		B4CB8E202887EB2B0055043D /* MTGSDKBidding.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKBidding.xcframework; sourceTree = "<group>"; };
-		B4CB8E212887EB2B0055043D /* MTGSDKReward.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKReward.xcframework; sourceTree = "<group>"; };
-		B4CB8E222887EB2B0055043D /* MTGSDKInterstitial.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKInterstitial.xcframework; sourceTree = "<group>"; };
-		B4CB8E232887EB2B0055043D /* MTGSDKNativeAdvanced.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKNativeAdvanced.xcframework; sourceTree = "<group>"; };
-		B4CB8E242887EB2B0055043D /* MTGSDKSplash.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKSplash.xcframework; sourceTree = "<group>"; };
-		B4CB8E252887EB2B0055043D /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
-		B4CB8E262887EB2B0055043D /* MTGSDKNewInterstitial.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKNewInterstitial.xcframework; sourceTree = "<group>"; };
-		B4CB8E272887EB2B0055043D /* MTGSDK.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDK.xcframework; sourceTree = "<group>"; };
+		B4CB8E332887EBF10055043D /* MTGSDKInterstitialVideo.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKInterstitialVideo.xcframework; sourceTree = "<group>"; };
+		B4CB8E342887EBF10055043D /* MTGSDKBanner.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKBanner.xcframework; sourceTree = "<group>"; };
+		B4CB8E352887EBF10055043D /* MTGSDKBidding.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKBidding.xcframework; sourceTree = "<group>"; };
+		B4CB8E362887EBF10055043D /* MTGSDKReward.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKReward.xcframework; sourceTree = "<group>"; };
+		B4CB8E372887EBF10055043D /* MTGSDKInterstitial.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKInterstitial.xcframework; sourceTree = "<group>"; };
+		B4CB8E382887EBF10055043D /* MTGSDKNativeAdvanced.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKNativeAdvanced.xcframework; sourceTree = "<group>"; };
+		B4CB8E392887EBF10055043D /* MTGSDKSplash.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKSplash.xcframework; sourceTree = "<group>"; };
+		B4CB8E3A2887EBF10055043D /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		B4CB8E3B2887EBF10055043D /* MTGSDKNewInterstitial.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKNewInterstitial.xcframework; sourceTree = "<group>"; };
+		B4CB8E3C2887EBF10055043D /* MTGSDK.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDK.xcframework; sourceTree = "<group>"; };
 		B4F72FD22887A54B009D1A8C /* maxSdkManual.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = maxSdkManual.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4F72FD52887A54B009D1A8C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B4F72FD72887A54B009D1A8C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -155,16 +155,16 @@
 				B4CB05092887AB78001C38B9 /* CoreGraphics.framework in Frameworks */,
 				B4CB8E0E2887E8580055043D /* nanopb.xcframework in Frameworks */,
 				B4CB8DFB2887E5760055043D /* IronSource.xcframework in Frameworks */,
-				B4CB8E2B2887EB2B0055043D /* MTGSDKReward.xcframework in Frameworks */,
+				B4CB8E402887EBF20055043D /* MTGSDKReward.xcframework in Frameworks */,
 				B4CB05032887AB65001C38B9 /* AppTrackingTransparency.framework in Frameworks */,
 				B4CB8DFC2887E5760055043D /* IronSource.framework in Frameworks */,
-				B4CB8E2E2887EB2B0055043D /* MTGSDKSplash.xcframework in Frameworks */,
-				B4CB8E282887EB2B0055043D /* MTGSDKInterstitialVideo.xcframework in Frameworks */,
-				B4CB8E2D2887EB2B0055043D /* MTGSDKNativeAdvanced.xcframework in Frameworks */,
-				B4CB8E2C2887EB2B0055043D /* MTGSDKInterstitial.xcframework in Frameworks */,
+				B4CB8E432887EBF20055043D /* MTGSDKSplash.xcframework in Frameworks */,
+				B4CB8E3D2887EBF20055043D /* MTGSDKInterstitialVideo.xcframework in Frameworks */,
+				B4CB8E422887EBF20055043D /* MTGSDKNativeAdvanced.xcframework in Frameworks */,
+				B4CB8E412887EBF20055043D /* MTGSDKInterstitial.xcframework in Frameworks */,
 				B4CB05262887AC75001C38B9 /* libz.1.2.8.tbd in Frameworks */,
 				B4CB05232887AC0E001C38B9 /* WebKit.framework in Frameworks */,
-				B4CB8E302887EB2B0055043D /* MTGSDKNewInterstitial.xcframework in Frameworks */,
+				B4CB8E452887EBF20055043D /* MTGSDKNewInterstitial.xcframework in Frameworks */,
 				B4CB051B2887ABF8001C38B9 /* SafariServices.framework in Frameworks */,
 				B4CB8E132887E8580055043D /* GoogleAppMeasurementIdentitySupport.xcframework in Frameworks */,
 				B4CB8E002887E8340055043D /* AppLovinMediationGoogleAdapter.xcframework in Frameworks */,
@@ -172,18 +172,18 @@
 				B4CB05212887AC09001C38B9 /* UIKit.framework in Frameworks */,
 				B4CB8DFD2887E5760055043D /* Maio.xcframework in Frameworks */,
 				B4CB055B2887B2CE001C38B9 /* AppLovinMediationMaioAdapter.xcframework in Frameworks */,
-				B4CB8E292887EB2B0055043D /* MTGSDKBanner.xcframework in Frameworks */,
+				B4CB8E3E2887EBF20055043D /* MTGSDKBanner.xcframework in Frameworks */,
 				B4CB05072887AB72001C38B9 /* AVFoundation.framework in Frameworks */,
 				B4CB05242887AC5D001C38B9 /* libz.tbd in Frameworks */,
 				B4CB05282887AC80001C38B9 /* libz.1.2.11.tbd in Frameworks */,
 				B4CB8E152887E8580055043D /* UserMessagingPlatform.xcframework in Frameworks */,
-				B4CB8E312887EB2B0055043D /* MTGSDK.xcframework in Frameworks */,
+				B4CB8E462887EBF20055043D /* MTGSDK.xcframework in Frameworks */,
 				B4CB05632887B2CE001C38B9 /* AppLovinMediationIronSourceAdapter.xcframework in Frameworks */,
 				B4CB8E172887E8580055043D /* GoogleAppMeasurement.xcframework in Frameworks */,
 				B4CB05012887AB4E001C38B9 /* AdSupport.framework in Frameworks */,
 				B4CB8E182887E8580055043D /* GoogleUtilities.xcframework in Frameworks */,
 				B4CB05112887AB93001C38B9 /* Foundation.framework in Frameworks */,
-				B4CB8E2A2887EB2B0055043D /* MTGSDKBidding.xcframework in Frameworks */,
+				B4CB8E3F2887EBF20055043D /* MTGSDKBidding.xcframework in Frameworks */,
 				B4CB05052887AB6D001C38B9 /* AudioToolbox.framework in Frameworks */,
 				B4CB8E1B2887EB010055043D /* AppLovinMediationMintegralAdapter.xcframework in Frameworks */,
 				B4CB051F2887AC04001C38B9 /* SystemConfiguration.framework in Frameworks */,
@@ -270,7 +270,7 @@
 		B4CB8DF42887E5650055043D /* networkSdk */ = {
 			isa = PBXGroup;
 			children = (
-				B4CB8E1C2887EB2B0055043D /* MintegralAdSDK */,
+				B4CB8E322887EBF10055043D /* Fmk */,
 				B4CB8DF62887E5760055043D /* IronSource */,
 				B4CB8DF92887E5760055043D /* Maio.xcframework */,
 				B4CB8E012887E8580055043D /* GoogleMobileAdsSdkiOS-9.7.0 */,
@@ -332,31 +332,23 @@
 			path = "maxSdkManual/adapter/AppLovinMediationMintegralAdapter-7.1.8.0.0";
 			sourceTree = SOURCE_ROOT;
 		};
-		B4CB8E1C2887EB2B0055043D /* MintegralAdSDK */ = {
+		B4CB8E322887EBF10055043D /* Fmk */ = {
 			isa = PBXGroup;
 			children = (
-				B4CB8E1D2887EB2B0055043D /* Fmk */,
+				B4CB8E332887EBF10055043D /* MTGSDKInterstitialVideo.xcframework */,
+				B4CB8E342887EBF10055043D /* MTGSDKBanner.xcframework */,
+				B4CB8E352887EBF10055043D /* MTGSDKBidding.xcframework */,
+				B4CB8E362887EBF10055043D /* MTGSDKReward.xcframework */,
+				B4CB8E372887EBF10055043D /* MTGSDKInterstitial.xcframework */,
+				B4CB8E382887EBF10055043D /* MTGSDKNativeAdvanced.xcframework */,
+				B4CB8E392887EBF10055043D /* MTGSDKSplash.xcframework */,
+				B4CB8E3A2887EBF10055043D /* LICENSE.txt */,
+				B4CB8E3B2887EBF10055043D /* MTGSDKNewInterstitial.xcframework */,
+				B4CB8E3C2887EBF10055043D /* MTGSDK.xcframework */,
 			);
-			name = MintegralAdSDK;
-			path = networkSdk/MintegralAdSDK;
+			name = Fmk;
+			path = networkSdk/Fmk;
 			sourceTree = SOURCE_ROOT;
-		};
-		B4CB8E1D2887EB2B0055043D /* Fmk */ = {
-			isa = PBXGroup;
-			children = (
-				B4CB8E1E2887EB2B0055043D /* MTGSDKInterstitialVideo.xcframework */,
-				B4CB8E1F2887EB2B0055043D /* MTGSDKBanner.xcframework */,
-				B4CB8E202887EB2B0055043D /* MTGSDKBidding.xcframework */,
-				B4CB8E212887EB2B0055043D /* MTGSDKReward.xcframework */,
-				B4CB8E222887EB2B0055043D /* MTGSDKInterstitial.xcframework */,
-				B4CB8E232887EB2B0055043D /* MTGSDKNativeAdvanced.xcframework */,
-				B4CB8E242887EB2B0055043D /* MTGSDKSplash.xcframework */,
-				B4CB8E252887EB2B0055043D /* LICENSE.txt */,
-				B4CB8E262887EB2B0055043D /* MTGSDKNewInterstitial.xcframework */,
-				B4CB8E272887EB2B0055043D /* MTGSDK.xcframework */,
-			);
-			path = Fmk;
-			sourceTree = "<group>";
 		};
 		B4F72FC92887A54B009D1A8C = {
 			isa = PBXGroup;
@@ -466,7 +458,7 @@
 				B4CB8E122887E8580055043D /* GoogleUtilities-LICENSE in Resources */,
 				B4F72FED2887A798009D1A8C /* AppLovinSDKResources.bundle in Resources */,
 				B4F72FE22887A54C009D1A8C /* LaunchScreen.storyboard in Resources */,
-				B4CB8E2F2887EB2B0055043D /* LICENSE.txt in Resources */,
+				B4CB8E442887EBF20055043D /* LICENSE.txt in Resources */,
 				B4CB8E0F2887E8580055043D /* Promises-LICENSE in Resources */,
 				B4F72FDF2887A54C009D1A8C /* Assets.xcassets in Resources */,
 				B4CB8E102887E8580055043D /* NanoPB-LICENSE in Resources */,
