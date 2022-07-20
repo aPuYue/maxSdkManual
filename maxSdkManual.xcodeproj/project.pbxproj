@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E088F1C9FD409E5AC17717F /* AppLovinQualityService.xcframework in AppLovinQualityService Embed Framework */ = {isa = PBXBuildFile; fileRef = 7D8C0131741AB8F5E9E47CE6 /* AppLovinQualityService.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		2E14278480F5FA677678301F /* AppLovinQualityService.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7D8C0131741AB8F5E9E47CE6 /* AppLovinQualityService.xcframework */; };
 		B4CB05012887AB4E001C38B9 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB05002887AB4E001C38B9 /* AdSupport.framework */; };
 		B4CB05032887AB65001C38B9 /* AppTrackingTransparency.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB05022887AB65001C38B9 /* AppTrackingTransparency.framework */; };
 		B4CB05052887AB6D001C38B9 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB05042887AB6D001C38B9 /* AudioToolbox.framework */; };
@@ -38,7 +40,22 @@
 		B4F72FED2887A798009D1A8C /* AppLovinSDKResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B4F72FEC2887A798009D1A8C /* AppLovinSDKResources.bundle */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		59E316B1F7389A4FE729160A /* AppLovinQualityService Embed Framework */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				2E088F1C9FD409E5AC17717F /* AppLovinQualityService.xcframework in AppLovinQualityService Embed Framework */,
+			);
+			name = "AppLovinQualityService Embed Framework";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		7D8C0131741AB8F5E9E47CE6 /* AppLovinQualityService.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; name = AppLovinQualityService.xcframework; path = AppLovinQualityService/AppLovinQualityService.xcframework; sourceTree = "<group>"; };
 		B4CB05002887AB4E001C38B9 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
 		B4CB05022887AB65001C38B9 /* AppTrackingTransparency.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppTrackingTransparency.framework; path = System/Library/Frameworks/AppTrackingTransparency.framework; sourceTree = SDKROOT; };
 		B4CB05042887AB6D001C38B9 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
@@ -77,6 +94,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E14278480F5FA677678301F /* AppLovinQualityService.xcframework in Frameworks */,
 				B4CB05292887AC86001C38B9 /* libz.1.1.3.tbd in Frameworks */,
 				B4CB05092887AB78001C38B9 /* CoreGraphics.framework in Frameworks */,
 				B4CB05032887AB65001C38B9 /* AppTrackingTransparency.framework in Frameworks */,
@@ -105,6 +123,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		33CD4E772C60BC0D3683D033 /* AppLovinQualityService */ = {
+			isa = PBXGroup;
+			children = (
+				7D8C0131741AB8F5E9E47CE6 /* AppLovinQualityService.xcframework */,
+			);
+			name = AppLovinQualityService;
+			sourceTree = "<group>";
+		};
 		B4CB04FF2887AB4E001C38B9 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -140,6 +166,7 @@
 				B4F72FD42887A54B009D1A8C /* maxSdkManual */,
 				B4F72FD32887A54B009D1A8C /* Products */,
 				B4CB04FF2887AB4E001C38B9 /* Frameworks */,
+				33CD4E772C60BC0D3683D033 /* AppLovinQualityService */,
 			);
 			sourceTree = "<group>";
 		};
@@ -181,9 +208,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = B4F72FE62887A54C009D1A8C /* Build configuration list for PBXNativeTarget "maxSdkManual" */;
 			buildPhases = (
+				181610AD7E3746E9073ABD5D /* AppLovinQualityService Updater */,
 				B4F72FCE2887A54B009D1A8C /* Sources */,
 				B4F72FCF2887A54B009D1A8C /* Frameworks */,
 				B4F72FD02887A54B009D1A8C /* Resources */,
+				59E316B1F7389A4FE729160A /* AppLovinQualityService Embed Framework */,
+				2AE9EF50C822DFC9CC746AF0 /* AppLovinQualityService */,
 			);
 			buildRules = (
 			);
@@ -240,6 +270,44 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		181610AD7E3746E9073ABD5D /* AppLovinQualityService Updater */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "AppLovinQualityService Updater";
+			outputPaths = (
+				AppLovinQualityService/AppLovinQualityServicePlugin.app,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "ruby \"AppLovinQualityServiceSetup-ios.rb\" update";
+		};
+		2AE9EF50C822DFC9CC746AF0 /* AppLovinQualityService */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				AppLovinQualityService/AppLovinQualityServicePlugin.app,
+				"$(TARGET_BUILD_DIR)/$(INFOPLIST_PATH)",
+				"$(TARGET_BUILD_DIR)/$(EXECUTABLE_PATH)",
+				"$(TARGET_BUILD_DIR)/$(FRAMEWORKS_FOLDER_PATH)/UnityFramework.framework/UnityFramework",
+			);
+			name = AppLovinQualityService;
+			outputPaths = (
+				"$(TARGET_BUILD_DIR)/$(EXECUTABLE_FOLDER_PATH)/.AppLovinQualityService/AppLovinQualityService.json",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "AppLovinQualityService/AppLovinQualityServicePlugin.app/Contents/MacOS/AppLovinQualityServicePlugin \"AppLovinQualityServiceSetup-ios.rb\"";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		B4F72FCE2887A54B009D1A8C /* Sources */ = {
@@ -311,6 +379,10 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/AppLovinQualityService",
+				);
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -373,6 +445,10 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/AppLovinQualityService",
+				);
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -400,6 +476,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = TPPHJL7HG3;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(inherited)",
+				);
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = maxSdkManual/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -412,6 +492,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.puyue.maxSdkManual;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -428,6 +512,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = TPPHJL7HG3;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(inherited)",
+				);
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = maxSdkManual/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -440,6 +528,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.puyue.maxSdkManual;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
