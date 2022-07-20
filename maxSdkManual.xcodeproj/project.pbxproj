@@ -35,6 +35,18 @@
 		B4CB8DFB2887E5760055043D /* IronSource.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8DF72887E5760055043D /* IronSource.xcframework */; };
 		B4CB8DFC2887E5760055043D /* IronSource.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8DF82887E5760055043D /* IronSource.framework */; };
 		B4CB8DFD2887E5760055043D /* Maio.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8DF92887E5760055043D /* Maio.xcframework */; };
+		B4CB8E002887E8340055043D /* AppLovinMediationGoogleAdapter.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8DFF2887E8340055043D /* AppLovinMediationGoogleAdapter.xcframework */; };
+		B4CB8E0E2887E8580055043D /* nanopb.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E022887E8580055043D /* nanopb.xcframework */; };
+		B4CB8E0F2887E8580055043D /* Promises-LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E042887E8580055043D /* Promises-LICENSE */; };
+		B4CB8E102887E8580055043D /* NanoPB-LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E052887E8580055043D /* NanoPB-LICENSE */; };
+		B4CB8E112887E8580055043D /* OpenMeasurement-LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E062887E8580055043D /* OpenMeasurement-LICENSE */; };
+		B4CB8E122887E8580055043D /* GoogleUtilities-LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E072887E8580055043D /* GoogleUtilities-LICENSE */; };
+		B4CB8E132887E8580055043D /* GoogleAppMeasurementIdentitySupport.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E082887E8580055043D /* GoogleAppMeasurementIdentitySupport.xcframework */; };
+		B4CB8E142887E8580055043D /* PromisesObjC.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E092887E8580055043D /* PromisesObjC.xcframework */; };
+		B4CB8E152887E8580055043D /* UserMessagingPlatform.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E0A2887E8580055043D /* UserMessagingPlatform.xcframework */; };
+		B4CB8E162887E8580055043D /* GoogleMobileAds.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E0B2887E8580055043D /* GoogleMobileAds.xcframework */; };
+		B4CB8E172887E8580055043D /* GoogleAppMeasurement.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E0C2887E8580055043D /* GoogleAppMeasurement.xcframework */; };
+		B4CB8E182887E8580055043D /* GoogleUtilities.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E0D2887E8580055043D /* GoogleUtilities.xcframework */; };
 		B4F72FD62887A54B009D1A8C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F72FD52887A54B009D1A8C /* AppDelegate.swift */; };
 		B4F72FD82887A54B009D1A8C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F72FD72887A54B009D1A8C /* SceneDelegate.swift */; };
 		B4F72FDA2887A54B009D1A8C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F72FD92887A54B009D1A8C /* ViewController.swift */; };
@@ -87,6 +99,18 @@
 		B4CB8DF72887E5760055043D /* IronSource.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = IronSource.xcframework; sourceTree = "<group>"; };
 		B4CB8DF82887E5760055043D /* IronSource.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = IronSource.framework; sourceTree = "<group>"; };
 		B4CB8DF92887E5760055043D /* Maio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = Maio.xcframework; path = networkSdk/Maio.xcframework; sourceTree = SOURCE_ROOT; };
+		B4CB8DFF2887E8340055043D /* AppLovinMediationGoogleAdapter.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = AppLovinMediationGoogleAdapter.xcframework; sourceTree = "<group>"; };
+		B4CB8E022887E8580055043D /* nanopb.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = nanopb.xcframework; sourceTree = "<group>"; };
+		B4CB8E042887E8580055043D /* Promises-LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Promises-LICENSE"; sourceTree = "<group>"; };
+		B4CB8E052887E8580055043D /* NanoPB-LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "NanoPB-LICENSE"; sourceTree = "<group>"; };
+		B4CB8E062887E8580055043D /* OpenMeasurement-LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "OpenMeasurement-LICENSE"; sourceTree = "<group>"; };
+		B4CB8E072887E8580055043D /* GoogleUtilities-LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "GoogleUtilities-LICENSE"; sourceTree = "<group>"; };
+		B4CB8E082887E8580055043D /* GoogleAppMeasurementIdentitySupport.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleAppMeasurementIdentitySupport.xcframework; sourceTree = "<group>"; };
+		B4CB8E092887E8580055043D /* PromisesObjC.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = PromisesObjC.xcframework; sourceTree = "<group>"; };
+		B4CB8E0A2887E8580055043D /* UserMessagingPlatform.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = UserMessagingPlatform.xcframework; sourceTree = "<group>"; };
+		B4CB8E0B2887E8580055043D /* GoogleMobileAds.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleMobileAds.xcframework; sourceTree = "<group>"; };
+		B4CB8E0C2887E8580055043D /* GoogleAppMeasurement.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleAppMeasurement.xcframework; sourceTree = "<group>"; };
+		B4CB8E0D2887E8580055043D /* GoogleUtilities.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleUtilities.xcframework; sourceTree = "<group>"; };
 		B4F72FD22887A54B009D1A8C /* maxSdkManual.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = maxSdkManual.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4F72FD52887A54B009D1A8C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B4F72FD72887A54B009D1A8C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -107,12 +131,15 @@
 				2E14278480F5FA677678301F /* AppLovinQualityService.xcframework in Frameworks */,
 				B4CB05292887AC86001C38B9 /* libz.1.1.3.tbd in Frameworks */,
 				B4CB05092887AB78001C38B9 /* CoreGraphics.framework in Frameworks */,
+				B4CB8E0E2887E8580055043D /* nanopb.xcframework in Frameworks */,
 				B4CB8DFB2887E5760055043D /* IronSource.xcframework in Frameworks */,
 				B4CB05032887AB65001C38B9 /* AppTrackingTransparency.framework in Frameworks */,
 				B4CB8DFC2887E5760055043D /* IronSource.framework in Frameworks */,
 				B4CB05262887AC75001C38B9 /* libz.1.2.8.tbd in Frameworks */,
 				B4CB05232887AC0E001C38B9 /* WebKit.framework in Frameworks */,
 				B4CB051B2887ABF8001C38B9 /* SafariServices.framework in Frameworks */,
+				B4CB8E132887E8580055043D /* GoogleAppMeasurementIdentitySupport.xcframework in Frameworks */,
+				B4CB8E002887E8340055043D /* AppLovinMediationGoogleAdapter.xcframework in Frameworks */,
 				B4F72FEB2887A753009D1A8C /* AppLovinSDK.xcframework in Frameworks */,
 				B4CB05212887AC09001C38B9 /* UIKit.framework in Frameworks */,
 				B4CB8DFD2887E5760055043D /* Maio.xcframework in Frameworks */,
@@ -120,18 +147,23 @@
 				B4CB05072887AB72001C38B9 /* AVFoundation.framework in Frameworks */,
 				B4CB05242887AC5D001C38B9 /* libz.tbd in Frameworks */,
 				B4CB05282887AC80001C38B9 /* libz.1.2.11.tbd in Frameworks */,
+				B4CB8E152887E8580055043D /* UserMessagingPlatform.xcframework in Frameworks */,
 				B4CB05632887B2CE001C38B9 /* AppLovinMediationIronSourceAdapter.xcframework in Frameworks */,
+				B4CB8E172887E8580055043D /* GoogleAppMeasurement.xcframework in Frameworks */,
 				B4CB05012887AB4E001C38B9 /* AdSupport.framework in Frameworks */,
+				B4CB8E182887E8580055043D /* GoogleUtilities.xcframework in Frameworks */,
 				B4CB05112887AB93001C38B9 /* Foundation.framework in Frameworks */,
 				B4CB05052887AB6D001C38B9 /* AudioToolbox.framework in Frameworks */,
 				B4CB051F2887AC04001C38B9 /* SystemConfiguration.framework in Frameworks */,
 				B4CB05252887AC71001C38B9 /* libz.1.tbd in Frameworks */,
 				B4CB050B2887AB7D001C38B9 /* CoreMedia.framework in Frameworks */,
+				B4CB8E162887E8580055043D /* GoogleMobileAds.xcframework in Frameworks */,
 				B4CB050F2887AB8A001C38B9 /* CoreTelephony.framework in Frameworks */,
 				B4CB05132887AB99001C38B9 /* MessageUI.framework in Frameworks */,
 				B4CB05272887AC7A001C38B9 /* libz.1.2.5.tbd in Frameworks */,
 				B4CB051D2887ABFE001C38B9 /* StoreKit.framework in Frameworks */,
 				B4CB050D2887AB83001C38B9 /* CoreMotion.framework in Frameworks */,
+				B4CB8E142887E8580055043D /* PromisesObjC.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,6 +209,7 @@
 		B4CB052A2887B2BE001C38B9 /* adapter */ = {
 			isa = PBXGroup;
 			children = (
+				B4CB8DFE2887E8340055043D /* AppLovinMediationGoogleAdapter-9.7.0.1 */,
 				B4CB053A2887B2CE001C38B9 /* AppLovinMediationIronSourceAdapter-7.2.3.1.0 */,
 				B4CB052E2887B2CE001C38B9 /* AppLovinMediationMaioAdapter-1.6.2.0 */,
 			);
@@ -206,6 +239,7 @@
 			children = (
 				B4CB8DF62887E5760055043D /* IronSource */,
 				B4CB8DF92887E5760055043D /* Maio.xcframework */,
+				B4CB8E012887E8580055043D /* GoogleMobileAdsSdkiOS-9.7.0 */,
 			);
 			path = networkSdk;
 			sourceTree = "<group>";
@@ -219,6 +253,41 @@
 			name = IronSource;
 			path = networkSdk/IronSource;
 			sourceTree = SOURCE_ROOT;
+		};
+		B4CB8DFE2887E8340055043D /* AppLovinMediationGoogleAdapter-9.7.0.1 */ = {
+			isa = PBXGroup;
+			children = (
+				B4CB8DFF2887E8340055043D /* AppLovinMediationGoogleAdapter.xcframework */,
+			);
+			name = "AppLovinMediationGoogleAdapter-9.7.0.1";
+			path = "adapter/AppLovinMediationGoogleAdapter-9.7.0.1";
+			sourceTree = SOURCE_ROOT;
+		};
+		B4CB8E012887E8580055043D /* GoogleMobileAdsSdkiOS-9.7.0 */ = {
+			isa = PBXGroup;
+			children = (
+				B4CB8E022887E8580055043D /* nanopb.xcframework */,
+				B4CB8E032887E8580055043D /* Licenses */,
+				B4CB8E082887E8580055043D /* GoogleAppMeasurementIdentitySupport.xcframework */,
+				B4CB8E092887E8580055043D /* PromisesObjC.xcframework */,
+				B4CB8E0A2887E8580055043D /* UserMessagingPlatform.xcframework */,
+				B4CB8E0B2887E8580055043D /* GoogleMobileAds.xcframework */,
+				B4CB8E0C2887E8580055043D /* GoogleAppMeasurement.xcframework */,
+				B4CB8E0D2887E8580055043D /* GoogleUtilities.xcframework */,
+			);
+			path = "GoogleMobileAdsSdkiOS-9.7.0";
+			sourceTree = "<group>";
+		};
+		B4CB8E032887E8580055043D /* Licenses */ = {
+			isa = PBXGroup;
+			children = (
+				B4CB8E042887E8580055043D /* Promises-LICENSE */,
+				B4CB8E052887E8580055043D /* NanoPB-LICENSE */,
+				B4CB8E062887E8580055043D /* OpenMeasurement-LICENSE */,
+				B4CB8E072887E8580055043D /* GoogleUtilities-LICENSE */,
+			);
+			path = Licenses;
+			sourceTree = "<group>";
 		};
 		B4F72FC92887A54B009D1A8C = {
 			isa = PBXGroup;
@@ -325,9 +394,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4CB8E122887E8580055043D /* GoogleUtilities-LICENSE in Resources */,
 				B4F72FED2887A798009D1A8C /* AppLovinSDKResources.bundle in Resources */,
 				B4F72FE22887A54C009D1A8C /* LaunchScreen.storyboard in Resources */,
+				B4CB8E0F2887E8580055043D /* Promises-LICENSE in Resources */,
 				B4F72FDF2887A54C009D1A8C /* Assets.xcassets in Resources */,
+				B4CB8E102887E8580055043D /* NanoPB-LICENSE in Resources */,
+				B4CB8E112887E8580055043D /* OpenMeasurement-LICENSE in Resources */,
 				B4F72FDD2887A54B009D1A8C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
