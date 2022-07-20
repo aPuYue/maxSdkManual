@@ -30,34 +30,35 @@
 		B4CB05272887AC7A001C38B9 /* libz.1.2.5.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB05172887ABA4001C38B9 /* libz.1.2.5.tbd */; };
 		B4CB05282887AC80001C38B9 /* libz.1.2.11.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB05152887ABA4001C38B9 /* libz.1.2.11.tbd */; };
 		B4CB05292887AC86001C38B9 /* libz.1.1.3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB05162887ABA4001C38B9 /* libz.1.1.3.tbd */; };
-		B4CB055B2887B2CE001C38B9 /* AppLovinMediationMaioAdapter.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB05302887B2CE001C38B9 /* AppLovinMediationMaioAdapter.xcframework */; };
-		B4CB05632887B2CE001C38B9 /* AppLovinMediationIronSourceAdapter.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB053C2887B2CE001C38B9 /* AppLovinMediationIronSourceAdapter.xcframework */; };
-		B4CB8DFB2887E5760055043D /* IronSource.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8DF72887E5760055043D /* IronSource.xcframework */; };
-		B4CB8DFC2887E5760055043D /* IronSource.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8DF82887E5760055043D /* IronSource.framework */; };
-		B4CB8DFD2887E5760055043D /* Maio.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8DF92887E5760055043D /* Maio.xcframework */; };
-		B4CB8E002887E8340055043D /* AppLovinMediationGoogleAdapter.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8DFF2887E8340055043D /* AppLovinMediationGoogleAdapter.xcframework */; };
-		B4CB8E0E2887E8580055043D /* nanopb.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E022887E8580055043D /* nanopb.xcframework */; };
-		B4CB8E0F2887E8580055043D /* Promises-LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E042887E8580055043D /* Promises-LICENSE */; };
-		B4CB8E102887E8580055043D /* NanoPB-LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E052887E8580055043D /* NanoPB-LICENSE */; };
-		B4CB8E112887E8580055043D /* OpenMeasurement-LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E062887E8580055043D /* OpenMeasurement-LICENSE */; };
-		B4CB8E122887E8580055043D /* GoogleUtilities-LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E072887E8580055043D /* GoogleUtilities-LICENSE */; };
-		B4CB8E132887E8580055043D /* GoogleAppMeasurementIdentitySupport.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E082887E8580055043D /* GoogleAppMeasurementIdentitySupport.xcframework */; };
-		B4CB8E142887E8580055043D /* PromisesObjC.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E092887E8580055043D /* PromisesObjC.xcframework */; };
-		B4CB8E152887E8580055043D /* UserMessagingPlatform.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E0A2887E8580055043D /* UserMessagingPlatform.xcframework */; };
-		B4CB8E162887E8580055043D /* GoogleMobileAds.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E0B2887E8580055043D /* GoogleMobileAds.xcframework */; };
-		B4CB8E172887E8580055043D /* GoogleAppMeasurement.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E0C2887E8580055043D /* GoogleAppMeasurement.xcframework */; };
-		B4CB8E182887E8580055043D /* GoogleUtilities.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E0D2887E8580055043D /* GoogleUtilities.xcframework */; };
-		B4CB8E1B2887EB010055043D /* AppLovinMediationMintegralAdapter.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E1A2887EB010055043D /* AppLovinMediationMintegralAdapter.xcframework */; };
-		B4CB8E3D2887EBF20055043D /* MTGSDKInterstitialVideo.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E332887EBF10055043D /* MTGSDKInterstitialVideo.xcframework */; };
-		B4CB8E3E2887EBF20055043D /* MTGSDKBanner.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E342887EBF10055043D /* MTGSDKBanner.xcframework */; };
-		B4CB8E3F2887EBF20055043D /* MTGSDKBidding.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E352887EBF10055043D /* MTGSDKBidding.xcframework */; };
-		B4CB8E402887EBF20055043D /* MTGSDKReward.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E362887EBF10055043D /* MTGSDKReward.xcframework */; };
-		B4CB8E412887EBF20055043D /* MTGSDKInterstitial.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E372887EBF10055043D /* MTGSDKInterstitial.xcframework */; };
-		B4CB8E422887EBF20055043D /* MTGSDKNativeAdvanced.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E382887EBF10055043D /* MTGSDKNativeAdvanced.xcframework */; };
-		B4CB8E432887EBF20055043D /* MTGSDKSplash.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E392887EBF10055043D /* MTGSDKSplash.xcframework */; };
-		B4CB8E442887EBF20055043D /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E3A2887EBF10055043D /* LICENSE.txt */; };
-		B4CB8E452887EBF20055043D /* MTGSDKNewInterstitial.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E3B2887EBF10055043D /* MTGSDKNewInterstitial.xcframework */; };
-		B4CB8E462887EBF20055043D /* MTGSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E3C2887EBF10055043D /* MTGSDK.xcframework */; };
+		B4CB8E65288816BB0055043D /* MTGSDKInterstitialVideo.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E48288816BB0055043D /* MTGSDKInterstitialVideo.xcframework */; };
+		B4CB8E66288816BB0055043D /* MTGSDKBanner.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E49288816BB0055043D /* MTGSDKBanner.xcframework */; };
+		B4CB8E67288816BB0055043D /* MTGSDKBidding.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E4A288816BB0055043D /* MTGSDKBidding.xcframework */; };
+		B4CB8E68288816BB0055043D /* MTGSDKReward.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E4B288816BB0055043D /* MTGSDKReward.xcframework */; };
+		B4CB8E69288816BB0055043D /* MTGSDKInterstitial.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E4C288816BB0055043D /* MTGSDKInterstitial.xcframework */; };
+		B4CB8E6A288816BB0055043D /* MTGSDKNativeAdvanced.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E4D288816BB0055043D /* MTGSDKNativeAdvanced.xcframework */; };
+		B4CB8E6B288816BB0055043D /* MTGSDKSplash.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E4E288816BB0055043D /* MTGSDKSplash.xcframework */; };
+		B4CB8E6C288816BB0055043D /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E4F288816BB0055043D /* LICENSE.txt */; };
+		B4CB8E6D288816BB0055043D /* MTGSDKNewInterstitial.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E50288816BB0055043D /* MTGSDKNewInterstitial.xcframework */; };
+		B4CB8E6E288816BB0055043D /* MTGSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E51288816BB0055043D /* MTGSDK.xcframework */; };
+		B4CB8E6F288816BB0055043D /* nanopb.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E53288816BB0055043D /* nanopb.xcframework */; };
+		B4CB8E70288816BB0055043D /* Promises-LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E55288816BB0055043D /* Promises-LICENSE */; };
+		B4CB8E71288816BB0055043D /* NanoPB-LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E56288816BB0055043D /* NanoPB-LICENSE */; };
+		B4CB8E72288816BC0055043D /* OpenMeasurement-LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E57288816BB0055043D /* OpenMeasurement-LICENSE */; };
+		B4CB8E73288816BC0055043D /* GoogleUtilities-LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E58288816BB0055043D /* GoogleUtilities-LICENSE */; };
+		B4CB8E74288816BC0055043D /* GoogleAppMeasurementIdentitySupport.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E59288816BB0055043D /* GoogleAppMeasurementIdentitySupport.xcframework */; };
+		B4CB8E75288816BC0055043D /* PromisesObjC.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E5A288816BB0055043D /* PromisesObjC.xcframework */; };
+		B4CB8E76288816BC0055043D /* UserMessagingPlatform.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E5B288816BB0055043D /* UserMessagingPlatform.xcframework */; };
+		B4CB8E77288816BC0055043D /* GoogleMobileAds.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E5C288816BB0055043D /* GoogleMobileAds.xcframework */; };
+		B4CB8E78288816BC0055043D /* GoogleAppMeasurement.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E5D288816BB0055043D /* GoogleAppMeasurement.xcframework */; };
+		B4CB8E79288816BC0055043D /* GoogleUtilities.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E5E288816BB0055043D /* GoogleUtilities.xcframework */; };
+		B4CB8E7A288816BC0055043D /* IronSource.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E60288816BB0055043D /* IronSource.xcframework */; };
+		B4CB8E7B288816BC0055043D /* IronSource.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E61288816BB0055043D /* IronSource.framework */; };
+		B4CB8E7C288816BC0055043D /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = B4CB8E63288816BB0055043D /* LICENSE */; };
+		B4CB8E7D288816BC0055043D /* UnityAds.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E64288816BB0055043D /* UnityAds.xcframework */; };
+		B4CB8E82288816DC0055043D /* AppLovinMediationUnityAdsAdapter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E7E288816DC0055043D /* AppLovinMediationUnityAdsAdapter.framework */; };
+		B4CB8E83288816DC0055043D /* AppLovinMediationGoogleAdapter.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E7F288816DC0055043D /* AppLovinMediationGoogleAdapter.xcframework */; };
+		B4CB8E84288816DC0055043D /* AppLovinMediationMintegralAdapter.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E80288816DC0055043D /* AppLovinMediationMintegralAdapter.xcframework */; };
+		B4CB8E85288816DC0055043D /* AppLovinMediationIronSourceAdapter.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4CB8E81288816DC0055043D /* AppLovinMediationIronSourceAdapter.xcframework */; };
 		B4F72FD62887A54B009D1A8C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F72FD52887A54B009D1A8C /* AppDelegate.swift */; };
 		B4F72FD82887A54B009D1A8C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F72FD72887A54B009D1A8C /* SceneDelegate.swift */; };
 		B4F72FDA2887A54B009D1A8C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4F72FD92887A54B009D1A8C /* ViewController.swift */; };
@@ -105,34 +106,35 @@
 		B4CB051E2887AC04001C38B9 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		B4CB05202887AC09001C38B9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		B4CB05222887AC0E001C38B9 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
-		B4CB05302887B2CE001C38B9 /* AppLovinMediationMaioAdapter.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = AppLovinMediationMaioAdapter.xcframework; sourceTree = "<group>"; };
-		B4CB053C2887B2CE001C38B9 /* AppLovinMediationIronSourceAdapter.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = AppLovinMediationIronSourceAdapter.xcframework; sourceTree = "<group>"; };
-		B4CB8DF72887E5760055043D /* IronSource.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = IronSource.xcframework; sourceTree = "<group>"; };
-		B4CB8DF82887E5760055043D /* IronSource.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = IronSource.framework; sourceTree = "<group>"; };
-		B4CB8DF92887E5760055043D /* Maio.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = Maio.xcframework; path = networkSdk/Maio.xcframework; sourceTree = SOURCE_ROOT; };
-		B4CB8DFF2887E8340055043D /* AppLovinMediationGoogleAdapter.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = AppLovinMediationGoogleAdapter.xcframework; sourceTree = "<group>"; };
-		B4CB8E022887E8580055043D /* nanopb.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = nanopb.xcframework; sourceTree = "<group>"; };
-		B4CB8E042887E8580055043D /* Promises-LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Promises-LICENSE"; sourceTree = "<group>"; };
-		B4CB8E052887E8580055043D /* NanoPB-LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "NanoPB-LICENSE"; sourceTree = "<group>"; };
-		B4CB8E062887E8580055043D /* OpenMeasurement-LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "OpenMeasurement-LICENSE"; sourceTree = "<group>"; };
-		B4CB8E072887E8580055043D /* GoogleUtilities-LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "GoogleUtilities-LICENSE"; sourceTree = "<group>"; };
-		B4CB8E082887E8580055043D /* GoogleAppMeasurementIdentitySupport.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleAppMeasurementIdentitySupport.xcframework; sourceTree = "<group>"; };
-		B4CB8E092887E8580055043D /* PromisesObjC.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = PromisesObjC.xcframework; sourceTree = "<group>"; };
-		B4CB8E0A2887E8580055043D /* UserMessagingPlatform.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = UserMessagingPlatform.xcframework; sourceTree = "<group>"; };
-		B4CB8E0B2887E8580055043D /* GoogleMobileAds.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleMobileAds.xcframework; sourceTree = "<group>"; };
-		B4CB8E0C2887E8580055043D /* GoogleAppMeasurement.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleAppMeasurement.xcframework; sourceTree = "<group>"; };
-		B4CB8E0D2887E8580055043D /* GoogleUtilities.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleUtilities.xcframework; sourceTree = "<group>"; };
-		B4CB8E1A2887EB010055043D /* AppLovinMediationMintegralAdapter.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = AppLovinMediationMintegralAdapter.xcframework; sourceTree = "<group>"; };
-		B4CB8E332887EBF10055043D /* MTGSDKInterstitialVideo.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKInterstitialVideo.xcframework; sourceTree = "<group>"; };
-		B4CB8E342887EBF10055043D /* MTGSDKBanner.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKBanner.xcframework; sourceTree = "<group>"; };
-		B4CB8E352887EBF10055043D /* MTGSDKBidding.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKBidding.xcframework; sourceTree = "<group>"; };
-		B4CB8E362887EBF10055043D /* MTGSDKReward.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKReward.xcframework; sourceTree = "<group>"; };
-		B4CB8E372887EBF10055043D /* MTGSDKInterstitial.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKInterstitial.xcframework; sourceTree = "<group>"; };
-		B4CB8E382887EBF10055043D /* MTGSDKNativeAdvanced.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKNativeAdvanced.xcframework; sourceTree = "<group>"; };
-		B4CB8E392887EBF10055043D /* MTGSDKSplash.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKSplash.xcframework; sourceTree = "<group>"; };
-		B4CB8E3A2887EBF10055043D /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
-		B4CB8E3B2887EBF10055043D /* MTGSDKNewInterstitial.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKNewInterstitial.xcframework; sourceTree = "<group>"; };
-		B4CB8E3C2887EBF10055043D /* MTGSDK.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDK.xcframework; sourceTree = "<group>"; };
+		B4CB8E48288816BB0055043D /* MTGSDKInterstitialVideo.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKInterstitialVideo.xcframework; sourceTree = "<group>"; };
+		B4CB8E49288816BB0055043D /* MTGSDKBanner.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKBanner.xcframework; sourceTree = "<group>"; };
+		B4CB8E4A288816BB0055043D /* MTGSDKBidding.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKBidding.xcframework; sourceTree = "<group>"; };
+		B4CB8E4B288816BB0055043D /* MTGSDKReward.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKReward.xcframework; sourceTree = "<group>"; };
+		B4CB8E4C288816BB0055043D /* MTGSDKInterstitial.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKInterstitial.xcframework; sourceTree = "<group>"; };
+		B4CB8E4D288816BB0055043D /* MTGSDKNativeAdvanced.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKNativeAdvanced.xcframework; sourceTree = "<group>"; };
+		B4CB8E4E288816BB0055043D /* MTGSDKSplash.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKSplash.xcframework; sourceTree = "<group>"; };
+		B4CB8E4F288816BB0055043D /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		B4CB8E50288816BB0055043D /* MTGSDKNewInterstitial.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDKNewInterstitial.xcframework; sourceTree = "<group>"; };
+		B4CB8E51288816BB0055043D /* MTGSDK.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MTGSDK.xcframework; sourceTree = "<group>"; };
+		B4CB8E53288816BB0055043D /* nanopb.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = nanopb.xcframework; sourceTree = "<group>"; };
+		B4CB8E55288816BB0055043D /* Promises-LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Promises-LICENSE"; sourceTree = "<group>"; };
+		B4CB8E56288816BB0055043D /* NanoPB-LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "NanoPB-LICENSE"; sourceTree = "<group>"; };
+		B4CB8E57288816BB0055043D /* OpenMeasurement-LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "OpenMeasurement-LICENSE"; sourceTree = "<group>"; };
+		B4CB8E58288816BB0055043D /* GoogleUtilities-LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "GoogleUtilities-LICENSE"; sourceTree = "<group>"; };
+		B4CB8E59288816BB0055043D /* GoogleAppMeasurementIdentitySupport.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleAppMeasurementIdentitySupport.xcframework; sourceTree = "<group>"; };
+		B4CB8E5A288816BB0055043D /* PromisesObjC.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = PromisesObjC.xcframework; sourceTree = "<group>"; };
+		B4CB8E5B288816BB0055043D /* UserMessagingPlatform.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = UserMessagingPlatform.xcframework; sourceTree = "<group>"; };
+		B4CB8E5C288816BB0055043D /* GoogleMobileAds.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleMobileAds.xcframework; sourceTree = "<group>"; };
+		B4CB8E5D288816BB0055043D /* GoogleAppMeasurement.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleAppMeasurement.xcframework; sourceTree = "<group>"; };
+		B4CB8E5E288816BB0055043D /* GoogleUtilities.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GoogleUtilities.xcframework; sourceTree = "<group>"; };
+		B4CB8E60288816BB0055043D /* IronSource.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = IronSource.xcframework; sourceTree = "<group>"; };
+		B4CB8E61288816BB0055043D /* IronSource.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = IronSource.framework; sourceTree = "<group>"; };
+		B4CB8E63288816BB0055043D /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		B4CB8E64288816BB0055043D /* UnityAds.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = UnityAds.xcframework; sourceTree = "<group>"; };
+		B4CB8E7E288816DC0055043D /* AppLovinMediationUnityAdsAdapter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppLovinMediationUnityAdsAdapter.framework; path = adapter/AppLovinMediationUnityAdsAdapter.framework; sourceTree = SOURCE_ROOT; };
+		B4CB8E7F288816DC0055043D /* AppLovinMediationGoogleAdapter.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = AppLovinMediationGoogleAdapter.xcframework; path = adapter/AppLovinMediationGoogleAdapter.xcframework; sourceTree = SOURCE_ROOT; };
+		B4CB8E80288816DC0055043D /* AppLovinMediationMintegralAdapter.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = AppLovinMediationMintegralAdapter.xcframework; path = adapter/AppLovinMediationMintegralAdapter.xcframework; sourceTree = SOURCE_ROOT; };
+		B4CB8E81288816DC0055043D /* AppLovinMediationIronSourceAdapter.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = AppLovinMediationIronSourceAdapter.xcframework; path = adapter/AppLovinMediationIronSourceAdapter.xcframework; sourceTree = SOURCE_ROOT; };
 		B4F72FD22887A54B009D1A8C /* maxSdkManual.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = maxSdkManual.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4F72FD52887A54B009D1A8C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B4F72FD72887A54B009D1A8C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -150,52 +152,52 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4CB8E78288816BC0055043D /* GoogleAppMeasurement.xcframework in Frameworks */,
 				2E14278480F5FA677678301F /* AppLovinQualityService.xcframework in Frameworks */,
+				B4CB8E85288816DC0055043D /* AppLovinMediationIronSourceAdapter.xcframework in Frameworks */,
 				B4CB05292887AC86001C38B9 /* libz.1.1.3.tbd in Frameworks */,
 				B4CB05092887AB78001C38B9 /* CoreGraphics.framework in Frameworks */,
-				B4CB8E0E2887E8580055043D /* nanopb.xcframework in Frameworks */,
-				B4CB8DFB2887E5760055043D /* IronSource.xcframework in Frameworks */,
-				B4CB8E402887EBF20055043D /* MTGSDKReward.xcframework in Frameworks */,
 				B4CB05032887AB65001C38B9 /* AppTrackingTransparency.framework in Frameworks */,
-				B4CB8DFC2887E5760055043D /* IronSource.framework in Frameworks */,
-				B4CB8E432887EBF20055043D /* MTGSDKSplash.xcframework in Frameworks */,
-				B4CB8E3D2887EBF20055043D /* MTGSDKInterstitialVideo.xcframework in Frameworks */,
-				B4CB8E422887EBF20055043D /* MTGSDKNativeAdvanced.xcframework in Frameworks */,
-				B4CB8E412887EBF20055043D /* MTGSDKInterstitial.xcframework in Frameworks */,
+				B4CB8E68288816BB0055043D /* MTGSDKReward.xcframework in Frameworks */,
+				B4CB8E84288816DC0055043D /* AppLovinMediationMintegralAdapter.xcframework in Frameworks */,
+				B4CB8E7A288816BC0055043D /* IronSource.xcframework in Frameworks */,
 				B4CB05262887AC75001C38B9 /* libz.1.2.8.tbd in Frameworks */,
+				B4CB8E7B288816BC0055043D /* IronSource.framework in Frameworks */,
 				B4CB05232887AC0E001C38B9 /* WebKit.framework in Frameworks */,
-				B4CB8E452887EBF20055043D /* MTGSDKNewInterstitial.xcframework in Frameworks */,
 				B4CB051B2887ABF8001C38B9 /* SafariServices.framework in Frameworks */,
-				B4CB8E132887E8580055043D /* GoogleAppMeasurementIdentitySupport.xcframework in Frameworks */,
-				B4CB8E002887E8340055043D /* AppLovinMediationGoogleAdapter.xcframework in Frameworks */,
 				B4F72FEB2887A753009D1A8C /* AppLovinSDK.xcframework in Frameworks */,
 				B4CB05212887AC09001C38B9 /* UIKit.framework in Frameworks */,
-				B4CB8DFD2887E5760055043D /* Maio.xcframework in Frameworks */,
-				B4CB055B2887B2CE001C38B9 /* AppLovinMediationMaioAdapter.xcframework in Frameworks */,
-				B4CB8E3E2887EBF20055043D /* MTGSDKBanner.xcframework in Frameworks */,
 				B4CB05072887AB72001C38B9 /* AVFoundation.framework in Frameworks */,
 				B4CB05242887AC5D001C38B9 /* libz.tbd in Frameworks */,
+				B4CB8E67288816BB0055043D /* MTGSDKBidding.xcframework in Frameworks */,
 				B4CB05282887AC80001C38B9 /* libz.1.2.11.tbd in Frameworks */,
-				B4CB8E152887E8580055043D /* UserMessagingPlatform.xcframework in Frameworks */,
-				B4CB8E462887EBF20055043D /* MTGSDK.xcframework in Frameworks */,
-				B4CB05632887B2CE001C38B9 /* AppLovinMediationIronSourceAdapter.xcframework in Frameworks */,
-				B4CB8E172887E8580055043D /* GoogleAppMeasurement.xcframework in Frameworks */,
 				B4CB05012887AB4E001C38B9 /* AdSupport.framework in Frameworks */,
-				B4CB8E182887E8580055043D /* GoogleUtilities.xcframework in Frameworks */,
+				B4CB8E6F288816BB0055043D /* nanopb.xcframework in Frameworks */,
 				B4CB05112887AB93001C38B9 /* Foundation.framework in Frameworks */,
-				B4CB8E3F2887EBF20055043D /* MTGSDKBidding.xcframework in Frameworks */,
 				B4CB05052887AB6D001C38B9 /* AudioToolbox.framework in Frameworks */,
-				B4CB8E1B2887EB010055043D /* AppLovinMediationMintegralAdapter.xcframework in Frameworks */,
+				B4CB8E6D288816BB0055043D /* MTGSDKNewInterstitial.xcframework in Frameworks */,
+				B4CB8E65288816BB0055043D /* MTGSDKInterstitialVideo.xcframework in Frameworks */,
+				B4CB8E6E288816BB0055043D /* MTGSDK.xcframework in Frameworks */,
+				B4CB8E66288816BB0055043D /* MTGSDKBanner.xcframework in Frameworks */,
 				B4CB051F2887AC04001C38B9 /* SystemConfiguration.framework in Frameworks */,
+				B4CB8E83288816DC0055043D /* AppLovinMediationGoogleAdapter.xcframework in Frameworks */,
 				B4CB05252887AC71001C38B9 /* libz.1.tbd in Frameworks */,
+				B4CB8E75288816BC0055043D /* PromisesObjC.xcframework in Frameworks */,
+				B4CB8E77288816BC0055043D /* GoogleMobileAds.xcframework in Frameworks */,
 				B4CB050B2887AB7D001C38B9 /* CoreMedia.framework in Frameworks */,
-				B4CB8E162887E8580055043D /* GoogleMobileAds.xcframework in Frameworks */,
 				B4CB050F2887AB8A001C38B9 /* CoreTelephony.framework in Frameworks */,
+				B4CB8E79288816BC0055043D /* GoogleUtilities.xcframework in Frameworks */,
+				B4CB8E69288816BB0055043D /* MTGSDKInterstitial.xcframework in Frameworks */,
+				B4CB8E74288816BC0055043D /* GoogleAppMeasurementIdentitySupport.xcframework in Frameworks */,
+				B4CB8E7D288816BC0055043D /* UnityAds.xcframework in Frameworks */,
+				B4CB8E6A288816BB0055043D /* MTGSDKNativeAdvanced.xcframework in Frameworks */,
 				B4CB05132887AB99001C38B9 /* MessageUI.framework in Frameworks */,
+				B4CB8E6B288816BB0055043D /* MTGSDKSplash.xcframework in Frameworks */,
 				B4CB05272887AC7A001C38B9 /* libz.1.2.5.tbd in Frameworks */,
 				B4CB051D2887ABFE001C38B9 /* StoreKit.framework in Frameworks */,
+				B4CB8E76288816BC0055043D /* UserMessagingPlatform.xcframework in Frameworks */,
 				B4CB050D2887AB83001C38B9 /* CoreMotion.framework in Frameworks */,
-				B4CB8E142887E8580055043D /* PromisesObjC.xcframework in Frameworks */,
+				B4CB8E82288816DC0055043D /* AppLovinMediationUnityAdsAdapter.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -241,113 +243,88 @@
 		B4CB052A2887B2BE001C38B9 /* adapter */ = {
 			isa = PBXGroup;
 			children = (
-				B4CB8E192887EB010055043D /* AppLovinMediationMintegralAdapter-7.1.8.0.0 */,
-				B4CB8DFE2887E8340055043D /* AppLovinMediationGoogleAdapter-9.7.0.1 */,
-				B4CB053A2887B2CE001C38B9 /* AppLovinMediationIronSourceAdapter-7.2.3.1.0 */,
-				B4CB052E2887B2CE001C38B9 /* AppLovinMediationMaioAdapter-1.6.2.0 */,
+				B4CB8E7F288816DC0055043D /* AppLovinMediationGoogleAdapter.xcframework */,
+				B4CB8E81288816DC0055043D /* AppLovinMediationIronSourceAdapter.xcframework */,
+				B4CB8E80288816DC0055043D /* AppLovinMediationMintegralAdapter.xcframework */,
+				B4CB8E7E288816DC0055043D /* AppLovinMediationUnityAdsAdapter.framework */,
 			);
 			path = adapter;
 			sourceTree = "<group>";
 		};
-		B4CB052E2887B2CE001C38B9 /* AppLovinMediationMaioAdapter-1.6.2.0 */ = {
-			isa = PBXGroup;
-			children = (
-				B4CB05302887B2CE001C38B9 /* AppLovinMediationMaioAdapter.xcframework */,
-			);
-			name = "AppLovinMediationMaioAdapter-1.6.2.0";
-			path = "adapter/AppLovinMediationMaioAdapter-1.6.2.0";
-			sourceTree = SOURCE_ROOT;
-		};
-		B4CB053A2887B2CE001C38B9 /* AppLovinMediationIronSourceAdapter-7.2.3.1.0 */ = {
-			isa = PBXGroup;
-			children = (
-				B4CB053C2887B2CE001C38B9 /* AppLovinMediationIronSourceAdapter.xcframework */,
-			);
-			name = "AppLovinMediationIronSourceAdapter-7.2.3.1.0";
-			path = "adapter/AppLovinMediationIronSourceAdapter-7.2.3.1.0";
-			sourceTree = SOURCE_ROOT;
-		};
 		B4CB8DF42887E5650055043D /* networkSdk */ = {
 			isa = PBXGroup;
 			children = (
-				B4CB8E322887EBF10055043D /* Fmk */,
-				B4CB8DF62887E5760055043D /* IronSource */,
-				B4CB8DF92887E5760055043D /* Maio.xcframework */,
-				B4CB8E012887E8580055043D /* GoogleMobileAdsSdkiOS-9.7.0 */,
+				B4CB8E47288816BB0055043D /* Fmk */,
+				B4CB8E52288816BB0055043D /* GoogleMobileAdsSdkiOS-9.7.0 */,
+				B4CB8E5F288816BB0055043D /* IronSource */,
+				B4CB8E62288816BB0055043D /* UnityAds */,
 			);
 			path = networkSdk;
 			sourceTree = "<group>";
 		};
-		B4CB8DF62887E5760055043D /* IronSource */ = {
+		B4CB8E47288816BB0055043D /* Fmk */ = {
 			isa = PBXGroup;
 			children = (
-				B4CB8DF72887E5760055043D /* IronSource.xcframework */,
-				B4CB8DF82887E5760055043D /* IronSource.framework */,
+				B4CB8E48288816BB0055043D /* MTGSDKInterstitialVideo.xcframework */,
+				B4CB8E49288816BB0055043D /* MTGSDKBanner.xcframework */,
+				B4CB8E4A288816BB0055043D /* MTGSDKBidding.xcframework */,
+				B4CB8E4B288816BB0055043D /* MTGSDKReward.xcframework */,
+				B4CB8E4C288816BB0055043D /* MTGSDKInterstitial.xcframework */,
+				B4CB8E4D288816BB0055043D /* MTGSDKNativeAdvanced.xcframework */,
+				B4CB8E4E288816BB0055043D /* MTGSDKSplash.xcframework */,
+				B4CB8E4F288816BB0055043D /* LICENSE.txt */,
+				B4CB8E50288816BB0055043D /* MTGSDKNewInterstitial.xcframework */,
+				B4CB8E51288816BB0055043D /* MTGSDK.xcframework */,
+			);
+			name = Fmk;
+			path = networkSdk/Fmk;
+			sourceTree = SOURCE_ROOT;
+		};
+		B4CB8E52288816BB0055043D /* GoogleMobileAdsSdkiOS-9.7.0 */ = {
+			isa = PBXGroup;
+			children = (
+				B4CB8E53288816BB0055043D /* nanopb.xcframework */,
+				B4CB8E54288816BB0055043D /* Licenses */,
+				B4CB8E59288816BB0055043D /* GoogleAppMeasurementIdentitySupport.xcframework */,
+				B4CB8E5A288816BB0055043D /* PromisesObjC.xcframework */,
+				B4CB8E5B288816BB0055043D /* UserMessagingPlatform.xcframework */,
+				B4CB8E5C288816BB0055043D /* GoogleMobileAds.xcframework */,
+				B4CB8E5D288816BB0055043D /* GoogleAppMeasurement.xcframework */,
+				B4CB8E5E288816BB0055043D /* GoogleUtilities.xcframework */,
+			);
+			name = "GoogleMobileAdsSdkiOS-9.7.0";
+			path = "networkSdk/GoogleMobileAdsSdkiOS-9.7.0";
+			sourceTree = SOURCE_ROOT;
+		};
+		B4CB8E54288816BB0055043D /* Licenses */ = {
+			isa = PBXGroup;
+			children = (
+				B4CB8E55288816BB0055043D /* Promises-LICENSE */,
+				B4CB8E56288816BB0055043D /* NanoPB-LICENSE */,
+				B4CB8E57288816BB0055043D /* OpenMeasurement-LICENSE */,
+				B4CB8E58288816BB0055043D /* GoogleUtilities-LICENSE */,
+			);
+			path = Licenses;
+			sourceTree = "<group>";
+		};
+		B4CB8E5F288816BB0055043D /* IronSource */ = {
+			isa = PBXGroup;
+			children = (
+				B4CB8E60288816BB0055043D /* IronSource.xcframework */,
+				B4CB8E61288816BB0055043D /* IronSource.framework */,
 			);
 			name = IronSource;
 			path = networkSdk/IronSource;
 			sourceTree = SOURCE_ROOT;
 		};
-		B4CB8DFE2887E8340055043D /* AppLovinMediationGoogleAdapter-9.7.0.1 */ = {
+		B4CB8E62288816BB0055043D /* UnityAds */ = {
 			isa = PBXGroup;
 			children = (
-				B4CB8DFF2887E8340055043D /* AppLovinMediationGoogleAdapter.xcframework */,
+				B4CB8E63288816BB0055043D /* LICENSE */,
+				B4CB8E64288816BB0055043D /* UnityAds.xcframework */,
 			);
-			name = "AppLovinMediationGoogleAdapter-9.7.0.1";
-			path = "adapter/AppLovinMediationGoogleAdapter-9.7.0.1";
-			sourceTree = SOURCE_ROOT;
-		};
-		B4CB8E012887E8580055043D /* GoogleMobileAdsSdkiOS-9.7.0 */ = {
-			isa = PBXGroup;
-			children = (
-				B4CB8E022887E8580055043D /* nanopb.xcframework */,
-				B4CB8E032887E8580055043D /* Licenses */,
-				B4CB8E082887E8580055043D /* GoogleAppMeasurementIdentitySupport.xcframework */,
-				B4CB8E092887E8580055043D /* PromisesObjC.xcframework */,
-				B4CB8E0A2887E8580055043D /* UserMessagingPlatform.xcframework */,
-				B4CB8E0B2887E8580055043D /* GoogleMobileAds.xcframework */,
-				B4CB8E0C2887E8580055043D /* GoogleAppMeasurement.xcframework */,
-				B4CB8E0D2887E8580055043D /* GoogleUtilities.xcframework */,
-			);
-			path = "GoogleMobileAdsSdkiOS-9.7.0";
-			sourceTree = "<group>";
-		};
-		B4CB8E032887E8580055043D /* Licenses */ = {
-			isa = PBXGroup;
-			children = (
-				B4CB8E042887E8580055043D /* Promises-LICENSE */,
-				B4CB8E052887E8580055043D /* NanoPB-LICENSE */,
-				B4CB8E062887E8580055043D /* OpenMeasurement-LICENSE */,
-				B4CB8E072887E8580055043D /* GoogleUtilities-LICENSE */,
-			);
-			path = Licenses;
-			sourceTree = "<group>";
-		};
-		B4CB8E192887EB010055043D /* AppLovinMediationMintegralAdapter-7.1.8.0.0 */ = {
-			isa = PBXGroup;
-			children = (
-				B4CB8E1A2887EB010055043D /* AppLovinMediationMintegralAdapter.xcframework */,
-			);
-			name = "AppLovinMediationMintegralAdapter-7.1.8.0.0";
-			path = "maxSdkManual/adapter/AppLovinMediationMintegralAdapter-7.1.8.0.0";
-			sourceTree = SOURCE_ROOT;
-		};
-		B4CB8E322887EBF10055043D /* Fmk */ = {
-			isa = PBXGroup;
-			children = (
-				B4CB8E332887EBF10055043D /* MTGSDKInterstitialVideo.xcframework */,
-				B4CB8E342887EBF10055043D /* MTGSDKBanner.xcframework */,
-				B4CB8E352887EBF10055043D /* MTGSDKBidding.xcframework */,
-				B4CB8E362887EBF10055043D /* MTGSDKReward.xcframework */,
-				B4CB8E372887EBF10055043D /* MTGSDKInterstitial.xcframework */,
-				B4CB8E382887EBF10055043D /* MTGSDKNativeAdvanced.xcframework */,
-				B4CB8E392887EBF10055043D /* MTGSDKSplash.xcframework */,
-				B4CB8E3A2887EBF10055043D /* LICENSE.txt */,
-				B4CB8E3B2887EBF10055043D /* MTGSDKNewInterstitial.xcframework */,
-				B4CB8E3C2887EBF10055043D /* MTGSDK.xcframework */,
-			);
-			name = Fmk;
-			path = networkSdk/Fmk;
+			name = UnityAds;
+			path = networkSdk/UnityAds;
 			sourceTree = SOURCE_ROOT;
 		};
 		B4F72FC92887A54B009D1A8C = {
@@ -455,15 +432,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B4CB8E122887E8580055043D /* GoogleUtilities-LICENSE in Resources */,
 				B4F72FED2887A798009D1A8C /* AppLovinSDKResources.bundle in Resources */,
 				B4F72FE22887A54C009D1A8C /* LaunchScreen.storyboard in Resources */,
-				B4CB8E442887EBF20055043D /* LICENSE.txt in Resources */,
-				B4CB8E0F2887E8580055043D /* Promises-LICENSE in Resources */,
 				B4F72FDF2887A54C009D1A8C /* Assets.xcassets in Resources */,
-				B4CB8E102887E8580055043D /* NanoPB-LICENSE in Resources */,
-				B4CB8E112887E8580055043D /* OpenMeasurement-LICENSE in Resources */,
+				B4CB8E71288816BB0055043D /* NanoPB-LICENSE in Resources */,
+				B4CB8E7C288816BC0055043D /* LICENSE in Resources */,
+				B4CB8E6C288816BB0055043D /* LICENSE.txt in Resources */,
+				B4CB8E70288816BB0055043D /* Promises-LICENSE in Resources */,
+				B4CB8E73288816BC0055043D /* GoogleUtilities-LICENSE in Resources */,
 				B4F72FDD2887A54B009D1A8C /* Main.storyboard in Resources */,
+				B4CB8E72288816BC0055043D /* OpenMeasurement-LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -683,6 +661,7 @@
 					"$(PROJECT_DIR)/adapter/AppLovinMediationNendAdapter-7.3.0.1",
 					"$(PROJECT_DIR)/networkSdk",
 					"$(PROJECT_DIR)/networkSdk/IronSource",
+					"$(PROJECT_DIR)/adapter",
 				);
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = maxSdkManual/Info.plist;
@@ -725,6 +704,7 @@
 					"$(PROJECT_DIR)/adapter/AppLovinMediationNendAdapter-7.3.0.1",
 					"$(PROJECT_DIR)/networkSdk",
 					"$(PROJECT_DIR)/networkSdk/IronSource",
+					"$(PROJECT_DIR)/adapter",
 				);
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = maxSdkManual/Info.plist;
